@@ -98,7 +98,7 @@ Data was inserted into these tables using `SELECT DISTINCT`.
 
 | File                 | Description                                 |
 | -------------------- | ------------------------------------------- |
-| Week3_SQL_Script.sql | Complete SQL queries used in the assignment |
+| queries.sql          | Complete SQL queries used in the assignment |
 | Week3_Report.pdf     | Query explanations and output screenshots   |
 | Insights.md          | Business insights derived from the analysis |
 
